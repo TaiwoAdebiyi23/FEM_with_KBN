@@ -1,5 +1,5 @@
 
-## UQPINNS+GANS
+## Finite Element Methods
 <div align="center">
   <img src="./readme_modified_lame_result.png" alt="BO Iterations GIF" style="width: 100%;">
 </div>
@@ -17,6 +17,15 @@ problem settings, including canonical problems with known analytical solutions a
 ### Experimental Results
 All of these experimental details are presented in the notebook. You can access them here:
 [Taiwo_FEM_with_KBN_Final_Project](./taiwo_final_project_main.ipynb).
+
+### Requirements
+
+To successfully run the notebook,please do the following:
+
+```bash
+git clone https://github.com/TaiwoAdebiyi23/FEM_with_KBN.git
+pip install numpy, matplotlib, gmsh
+````
 
 
 ### The Author
