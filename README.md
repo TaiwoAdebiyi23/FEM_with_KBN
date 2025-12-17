@@ -1,5 +1,5 @@
 
-## FEM
+## Finite Element Methods
 <div align="center">
   <img src="./readme_modified_lame_result.png" alt="BO Iterations GIF" style="width: 100%;">
 </div>
